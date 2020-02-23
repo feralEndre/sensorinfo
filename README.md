@@ -1,2 +1,2 @@
 # sensorinfo
-Set up a test push 22
+Set up a test push 3
