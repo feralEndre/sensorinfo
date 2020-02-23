@@ -1,2 +1,2 @@
 # sensorinfo
-Set up a test push 3
+Sensor Info for little deb
