@@ -24,8 +24,8 @@ fan1:           0 RPM  (min =    0 RPM, div = 128)
 fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
 SYSTIN:       +50.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
-CPUTIN:       +50.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +62.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+CPUTIN:       +49.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +62.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
