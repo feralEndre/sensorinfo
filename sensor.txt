@@ -7,7 +7,7 @@ temp1:        +64.0°C  (high = +95.0°C, hyst =  +3.0°C)
 coretemp-isa-0000
 Adapter: ISA adapter
 Core 0:       +40.0°C  (crit = +125.0°C)
-Core 1:       +47.0°C  (crit = +125.0°C)
+Core 1:       +48.0°C  (crit = +125.0°C)
 
 nct6775-isa-0290
 Adapter: ISA adapter
@@ -15,7 +15,7 @@ Vcore:        +1.13 V  (min =  +0.00 V, max =  +1.74 V)
 in1:          +0.58 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 AVCC:         +3.42 V  (min =  +2.98 V, max =  +3.63 V)
 +3.3V:        +3.42 V  (min =  +2.98 V, max =  +3.63 V)
-in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in4:          +1.31 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in5:          +1.11 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 3VSB:         +3.47 V  (min =  +2.98 V, max =  +3.63 V)
@@ -23,25 +23,24 @@ Vbat:         +3.17 V  (min =  +2.70 V, max =  +3.63 V)
 fan1:           0 RPM  (min =    0 RPM, div = 128)
 fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
-SYSTIN:       +51.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
+SYSTIN:       +52.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
 CPUTIN:       +50.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +64.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +64.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 15:02:31 up 10 min,  2 users,  load average: 0,01, 0,13, 0,14
-[32m
-   .~~.   .~~.    szombat,  4 április 2020, 15:02:31
-  '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux[31m
+ 15:05:01 up 12 min,  2 users,  load average: 0,00, 0,08, 0,11
+
+   .~~.   .~~.    szombat,  4 április 2020, 15:05:01
+  '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 00h10m24s
- ~ (   ) (   ) ~  Memory.............: 1434464kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.01, 0.13, 0.14 (1, 5, 15 min)
- ~ .~ (   ) ~. ~  Running Processes..: 109
+  : .~.'~'.~. :   Uptime.............: 0 days, 00h12m54s
+ ~ (   ) (   ) ~  Memory.............: 1432996kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.08, 0.11 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 111
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 94.21.201.43
    '~ .~~~. ~'    Weather............: 12°C, Mostly Cloudy
        '~'
-(B[m
 temp1:        +64.0°C  
-Core 0:       +38.0°C  
+Core 0:       +40.0°C  
 Core 1:       +48.0°C  
