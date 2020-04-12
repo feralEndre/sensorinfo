@@ -13,8 +13,8 @@ nct6775-isa-0290
 Adapter: ISA adapter
 Vcore:        +1.13 V  (min =  +0.00 V, max =  +1.74 V)
 in1:          +0.58 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
-AVCC:         +3.41 V  (min =  +2.98 V, max =  +3.63 V)
-+3.3V:        +3.41 V  (min =  +2.98 V, max =  +3.63 V)
+AVCC:         +3.42 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.42 V  (min =  +2.98 V, max =  +3.63 V)
 in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in5:          +1.11 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
@@ -23,23 +23,23 @@ Vbat:         +3.17 V  (min =  +2.70 V, max =  +3.63 V)
 fan1:           0 RPM  (min =    0 RPM, div = 128)
 fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
-SYSTIN:       +53.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
+SYSTIN:       +52.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
 CPUTIN:       +53.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +65.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +65.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 16:15:01 up 8 days,  1:22,  0 users,  load average: 0,04, 0,01, 0,00
+ 16:20:01 up 8 days,  1:27,  0 users,  load average: 0,02, 0,01, 0,00
 
-   .~~.   .~~.    vasárnap, 12 április 2020, 16:15:01
+   .~~.   .~~.    vasárnap, 12 április 2020, 16:20:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 8 days, 01h22m54s
- ~ (   ) (   ) ~  Memory.............: 76372kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.04, 0.01, 0.00 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 8 days, 01h27m54s
+ ~ (   ) (   ) ~  Memory.............: 75576kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.02, 0.01, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 94.21.180.199
-   '~ .~~~. ~'    Weather............: 20°C, Mostly Sunny
+   '~ .~~~. ~'    Weather............: 20°C, Partly Sunny
        '~'
 temp1:        +65.0°C  
 Core 0:       +41.0°C  
