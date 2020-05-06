@@ -1,6 +1,6 @@
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +65.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +64.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
@@ -29,14 +29,14 @@ AUXTIN:       +64.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 07:25:02 up 11 days,  8:16,  0 users,  load average: 0,06, 0,02, 0,00
+ 07:30:02 up 11 days,  8:21,  0 users,  load average: 0,00, 0,00, 0,00
 
-   .~~.   .~~.    szerda,  6 május 2020, 07:25:02
+   .~~.   .~~.    szerda,  6 május 2020, 07:30:02
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 11 days, 08h16m58s
- ~ (   ) (   ) ~  Memory.............: 384608kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.06, 0.02, 0.00 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 11 days, 08h21m58s
+ ~ (   ) (   ) ~  Memory.............: 378156kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 178.164.165.119
    '~ .~~~. ~'    Weather............: 3°C, Partly Sunny
