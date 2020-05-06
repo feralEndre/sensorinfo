@@ -25,17 +25,17 @@ fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
 SYSTIN:       +51.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
 CPUTIN:       +51.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +65.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +64.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 04:35:01 up 11 days,  5:26,  0 users,  load average: 0,00, 0,00, 0,00
+ 04:40:01 up 11 days,  5:31,  0 users,  load average: 0,00, 0,00, 0,00
 
-   .~~.   .~~.    szerda,  6 május 2020, 04:35:01
+   .~~.   .~~.    szerda,  6 május 2020, 04:40:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 11 days, 05h26m57s
- ~ (   ) (   ) ~  Memory.............: 80596kB (Free) / 1784008kB (Total)
+  : .~.'~'.~. :   Uptime.............: 11 days, 05h31m57s
+ ~ (   ) (   ) ~  Memory.............: 79784kB (Free) / 1784008kB (Total)
 ( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 178.164.165.119
