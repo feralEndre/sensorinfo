@@ -7,7 +7,7 @@ temp1:        +68.0°C  (high = +95.0°C, hyst =  +3.0°C)
 coretemp-isa-0000
 Adapter: ISA adapter
 Core 0:       +46.0°C  (crit = +125.0°C)
-Core 1:       +54.0°C  (crit = +125.0°C)
+Core 1:       +53.0°C  (crit = +125.0°C)
 
 nct6775-isa-0290
 Adapter: ISA adapter
@@ -16,7 +16,7 @@ in1:          +0.58 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 AVCC:         +3.41 V  (min =  +2.98 V, max =  +3.63 V)
 +3.3V:        +3.41 V  (min =  +2.98 V, max =  +3.63 V)
 in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
-in5:          +1.15 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:          +1.17 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 3VSB:         +3.47 V  (min =  +2.98 V, max =  +3.63 V)
 Vbat:         +3.17 V  (min =  +2.70 V, max =  +3.63 V)
@@ -25,22 +25,22 @@ fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
 SYSTIN:       +54.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
 CPUTIN:       +54.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +68.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +68.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 10:15:01 up 16 days,  1:27,  0 users,  load average: 0,14, 0,03, 0,01
+ 10:20:01 up 16 days,  1:32,  0 users,  load average: 0,02, 0,05, 0,01
 
-   .~~.   .~~.    csütörtök,  2 július 2020, 10:15:01
+   .~~.   .~~.    csütörtök,  2 július 2020, 10:20:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 16 days, 01h27m02s
- ~ (   ) (   ) ~  Memory.............: 83184kB (Free) / 1784452kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.14, 0.03, 0.01 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 16 days, 01h32m02s
+ ~ (   ) (   ) ~  Memory.............: 82980kB (Free) / 1784452kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.02, 0.05, 0.01 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 92.249.253.245
    '~ .~~~. ~'    Weather............: 13°C, Cloudy
        '~'
 temp1:        +68.0°C  
 Core 0:       +46.0°C  
-Core 1:       +54.0°C  
+Core 1:       +53.0°C  
