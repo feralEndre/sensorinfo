@@ -1,12 +1,12 @@
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +68.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +69.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
 coretemp-isa-0000
 Adapter: ISA adapter
-Core 0:       +46.0°C  (crit = +125.0°C)
+Core 0:       +47.0°C  (crit = +125.0°C)
 Core 1:       +55.0°C  (crit = +125.0°C)
 
 nct6775-isa-0290
@@ -29,18 +29,18 @@ AUXTIN:       +68.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 19:45:01 up 16 days, 10:57,  0 users,  load average: 0,00, 0,00, 0,00
+ 19:50:01 up 16 days, 11:02,  0 users,  load average: 0,03, 0,01, 0,00
 
-   .~~.   .~~.    csütörtök,  2 július 2020, 19:45:01
+   .~~.   .~~.    csütörtök,  2 július 2020, 19:50:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 16 days, 10h57m01s
- ~ (   ) (   ) ~  Memory.............: 81100kB (Free) / 1784452kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 16 days, 11h02m01s
+ ~ (   ) (   ) ~  Memory.............: 80696kB (Free) / 1784452kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.03, 0.01, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 92.249.253.245
    '~ .~~~. ~'    Weather............: 17°C, Mostly Sunny
        '~'
 temp1:        +68.0°C  
-Core 0:       +46.0°C  
+Core 0:       +47.0°C  
 Core 1:       +55.0°C  
