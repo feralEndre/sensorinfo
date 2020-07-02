@@ -6,8 +6,8 @@ temp1:        +68.0°C  (high = +95.0°C, hyst =  +3.0°C)
 
 coretemp-isa-0000
 Adapter: ISA adapter
-Core 0:       +46.0°C  (crit = +125.0°C)
-Core 1:       +56.0°C  (crit = +125.0°C)
+Core 0:       +45.0°C  (crit = +125.0°C)
+Core 1:       +54.0°C  (crit = +125.0°C)
 
 nct6775-isa-0290
 Adapter: ISA adapter
@@ -29,18 +29,18 @@ AUXTIN:       +68.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 07:35:01 up 15 days, 22:47,  0 users,  load average: 0,02, 0,02, 0,00
+ 07:40:01 up 15 days, 22:52,  0 users,  load average: 0,00, 0,00, 0,00
 
-   .~~.   .~~.    csütörtök,  2 július 2020, 07:35:01
+   .~~.   .~~.    csütörtök,  2 július 2020, 07:40:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 15 days, 22h47m02s
- ~ (   ) (   ) ~  Memory.............: 92372kB (Free) / 1784452kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.02, 0.02, 0.00 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 15 days, 22h52m02s
+ ~ (   ) (   ) ~  Memory.............: 92224kB (Free) / 1784452kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 92.249.253.245
-   '~ .~~~. ~'    Weather............: 12°C, Mostly Cloudy
+   '~ .~~~. ~'    Weather............: 12°C, Showers
        '~'
 temp1:        +68.0°C  
 Core 0:       +46.0°C  
-Core 1:       +56.0°C  
+Core 1:       +53.0°C  
