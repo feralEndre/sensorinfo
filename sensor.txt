@@ -14,7 +14,7 @@ Adapter: ISA adapter
 Vcore:        +1.13 V  (min =  +0.00 V, max =  +1.74 V)
 in1:          +0.58 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 AVCC:         +3.41 V  (min =  +2.98 V, max =  +3.63 V)
-+3.3V:        +3.42 V  (min =  +2.98 V, max =  +3.63 V)
++3.3V:        +3.41 V  (min =  +2.98 V, max =  +3.63 V)
 in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in5:          +1.13 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.26 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
@@ -29,14 +29,14 @@ AUXTIN:       +66.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 09:25:01 up 24 min,  0 users,  load average: 0,04, 0,06, 0,08
+ 09:30:01 up 29 min,  0 users,  load average: 0,00, 0,03, 0,07
 
-   .~~.   .~~.    vasárnap, 19 július 2020, 09:25:01
+   .~~.   .~~.    vasárnap, 19 július 2020, 09:30:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 00h24m45s
- ~ (   ) (   ) ~  Memory.............: 1399776kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.04, 0.06, 0.08 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 0 days, 00h29m45s
+ ~ (   ) (   ) ~  Memory.............: 1399428kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.03, 0.07 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 104
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 84.236.23.86
    '~ .~~~. ~'    Weather............: 12°C, Cloudy
