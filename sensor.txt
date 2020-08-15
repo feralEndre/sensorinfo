@@ -18,7 +18,7 @@ AVCC:         +3.41 V  (min =  +2.98 V, max =  +3.63 V)
 in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in5:          +1.18 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.25 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
-3VSB:         +3.47 V  (min =  +2.98 V, max =  +3.63 V)
+3VSB:         +3.46 V  (min =  +2.98 V, max =  +3.63 V)
 Vbat:         +3.17 V  (min =  +2.70 V, max =  +3.63 V)
 fan1:           0 RPM  (min =    0 RPM, div = 128)
 fan2:           0 RPM  (min =    0 RPM, div = 128)
@@ -29,18 +29,18 @@ AUXTIN:       +68.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 00:20:01 up 15:19,  0 users,  load average: 0,05, 0,06, 0,09
+ 00:25:01 up 15:24,  0 users,  load average: 0,04, 0,06, 0,08
 
-   .~~.   .~~.    vasárnap, 16 augusztus 2020, 00:20:01
+   .~~.   .~~.    vasárnap, 16 augusztus 2020, 00:25:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 15h19m45s
- ~ (   ) (   ) ~  Memory.............: 75948kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.05, 0.06, 0.09 (1, 5, 15 min)
- ~ .~ (   ) ~. ~  Running Processes..: 105
+  : .~.'~'.~. :   Uptime.............: 0 days, 15h24m44s
+ ~ (   ) (   ) ~  Memory.............: 82012kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.04, 0.06, 0.08 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 106
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 77.234.93.1
    '~ .~~~. ~'    Weather............: 17°C, Fog
        '~'
 temp1:        +69.0°C  
 Core 0:       +47.0°C  
-Core 1:       +54.0°C  
+Core 1:       +56.0°C  
