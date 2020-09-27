@@ -1,1 +1,1 @@
- 09:40:02 up 14 days,  9:50,  0 users,  load average: 0,04, 0,08, 0,04
+ 09:45:02 up 14 days,  9:55,  0 users,  load average: 0,00, 0,03, 0,01
