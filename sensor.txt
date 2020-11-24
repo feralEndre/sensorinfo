@@ -44,3 +44,17 @@ intrusion0:  OK
 temp1:        +67.0°C  
 Core 0:       +43.0°C  
 Core 1:       +51.0°C  
+
+   .~~.   .~~.    kedd, 24 november 2020, 15:45:01
+  '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
+   .~ .~~~..~.
+  : .~.'~'.~. :   Uptime.............: 37 days, 03h58m25s
+ ~ (   ) (   ) ~  Memory.............: 85436kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.02, 0.00 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 104
+  (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 178.164.248.101
+   '~ .~~~. ~'    Weather............: 12°C, Cloudy
+       '~'
+temp1:        +67.0°C  
+Core 0:       +42.0°C  
+Core 1:       +51.0°C  
