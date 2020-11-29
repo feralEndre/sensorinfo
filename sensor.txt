@@ -25,22 +25,22 @@ fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
 SYSTIN:       +54.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
 CPUTIN:       +54.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +68.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +68.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 09:50:01 up 9 min,  0 users,  load average: 0,04, 0,13, 0,13
+ 09:55:01 up 14 min,  0 users,  load average: 0,00, 0,04, 0,08
 
-   .~~.   .~~.    vasárnap, 29 november 2020, 09:50:01
+   .~~.   .~~.    vasárnap, 29 november 2020, 09:55:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 00h09m51s
- ~ (   ) (   ) ~  Memory.............: 1379132kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.04, 0.13, 0.13 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 0 days, 00h14m51s
+ ~ (   ) (   ) ~  Memory.............: 1366224kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.04, 0.08 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 105
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 178.164.162.1
    '~ .~~~. ~'    Weather............: 6°C, Fog
        '~'
 temp1:        +68.0°C  
-Core 0:       +47.0°C  
-Core 1:       +54.0°C  
+Core 0:       +46.0°C  
+Core 1:       +55.0°C  
