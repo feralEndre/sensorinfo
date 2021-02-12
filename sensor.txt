@@ -29,18 +29,18 @@ AUXTIN:       +59.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 21:20:01 up 46 days, 13:19,  0 users,  load average: 0,00, 0,00, 0,08
+ 21:25:01 up 46 days, 13:24,  0 users,  load average: 0,00, 0,00, 0,06
 
-   .~~.   .~~.    péntek, 12 február 2021, 21:20:01
+   .~~.   .~~.    péntek, 12 február 2021, 21:25:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 46 days, 13h19m44s
- ~ (   ) (   ) ~  Memory.............: 76060kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.08 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 46 days, 13h24m45s
+ ~ (   ) (   ) ~  Memory.............: 73580kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.06 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 106
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 62.165.200.207
    '~ .~~~. ~'    Weather............: 
        '~'
 temp1:        +59.0°C  
-Core 0:       +31.0°C  
-Core 1:       +40.0°C  
+Core 0:       +30.0°C  
+Core 1:       +41.0°C  
