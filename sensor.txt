@@ -58,3 +58,17 @@ Core 1:       +40.0°C
 temp1:        +59.0°C  
 Core 0:       +30.0°C  
 Core 1:       +39.0°C  
+
+   .~~.   .~~.    péntek, 19 február 2021, 19:00:01
+  '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
+   .~ .~~~..~.
+  : .~.'~'.~. :   Uptime.............: 53 days, 10h59m44s
+ ~ (   ) (   ) ~  Memory.............: 78992kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 112
+  (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 178.164.139.10
+   '~ .~~~. ~'    Weather............: 10°C, Cloudy
+       '~'
+temp1:        +59.0°C  
+Core 0:       +30.0°C  
+Core 1:       +40.0°C  
