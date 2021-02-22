@@ -16,7 +16,7 @@ in1:          +0.58 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 AVCC:         +3.42 V  (min =  +2.98 V, max =  +3.63 V)
 +3.3V:        +3.42 V  (min =  +2.98 V, max =  +3.63 V)
 in4:          +1.30 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
-in5:          +1.12 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
+in5:          +1.11 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 in6:          +0.27 V  (min =  +0.00 V, max =  +0.00 V)  ALARM
 3VSB:         +3.47 V  (min =  +2.98 V, max =  +3.63 V)
 Vbat:         +3.17 V  (min =  +2.70 V, max =  +3.63 V)
@@ -29,14 +29,14 @@ AUXTIN:       +58.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 12:55:01 up 56 days,  4:54,  0 users,  load average: 0,07, 0,07, 0,03
+ 13:00:01 up 56 days,  4:59,  0 users,  load average: 0,07, 0,08, 0,04
 
-   .~~.   .~~.    hétfő, 22 február 2021, 12:55:01
+   .~~.   .~~.    hétfő, 22 február 2021, 13:00:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 56 days, 04h54m44s
- ~ (   ) (   ) ~  Memory.............: 75240kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.07, 0.07, 0.03 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 56 days, 04h59m45s
+ ~ (   ) (   ) ~  Memory.............: 85432kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.07, 0.08, 0.04 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 105
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 2a01:36d:115:4ab1:7271:bcff:fe4f:c7e8
    '~ .~~~. ~'    Weather............: 8°C, Mostly Cloudy
