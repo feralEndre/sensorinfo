@@ -1,6 +1,6 @@
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +59.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +58.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
@@ -29,13 +29,13 @@ AUXTIN:       +58.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 11:30:01 up 56 days,  3:29,  0 users,  load average: 0,00, 0,00, 0,00
+ 11:35:01 up 56 days,  3:34,  0 users,  load average: 0,00, 0,00, 0,00
 
-   .~~.   .~~.    hétfő, 22 február 2021, 11:30:01
+   .~~.   .~~.    hétfő, 22 február 2021, 11:35:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 56 days, 03h29m44s
- ~ (   ) (   ) ~  Memory.............: 73524kB (Free) / 1784008kB (Total)
+  : .~.'~'.~. :   Uptime.............: 56 days, 03h34m45s
+ ~ (   ) (   ) ~  Memory.............: 74348kB (Free) / 1784008kB (Total)
 ( : '~'.~.'~' : ) Load Averages......: 0.00, 0.00, 0.00 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 105
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 2a01:36d:115:4ab1:7271:bcff:fe4f:c7e8
