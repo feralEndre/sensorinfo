@@ -1,1 +1,1 @@
- 14:35:02 up 24 days, 51 min,  0 users,  load average: 0,25, 0,12, 0,04
+ 14:44:24 up 24 days,  1:01,  0 users,  load average: 0,00, 0,01, 0,00
