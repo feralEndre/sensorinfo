@@ -24,23 +24,23 @@ fan1:           0 RPM  (min =    0 RPM, div = 128)
 fan2:           0 RPM  (min =    0 RPM, div = 128)
 fan3:           0 RPM  (min =    0 RPM, div = 128)
 SYSTIN:       +50.0°C  (high =  +0.0°C, hyst =  +0.0°C)  ALARM  sensor = CPU diode
-CPUTIN:       +50.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
-AUXTIN:       +64.0°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+CPUTIN:       +49.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
+AUXTIN:       +63.5°C  (high = +80.0°C, hyst = +75.0°C)  sensor = CPU diode
 cpu0_vid:    +0.000 V
 intrusion0:  OK
 
- 00:05:02 up 69 days, 10:21,  0 users,  load average: 0,02, 0,07, 0,03
+ 00:10:01 up 69 days, 10:26,  0 users,  load average: 0,00, 0,03, 0,01
 
-   .~~.   .~~.    szerda, 14 július 2021, 00:05:02
+   .~~.   .~~.    szerda, 14 július 2021, 00:10:01
   '. \ ' ' / .'   Linux 4.19.0-6-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 69 days, 10h21m39s
- ~ (   ) (   ) ~  Memory.............: 82340kB (Free) / 1784008kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.02, 0.07, 0.03 (1, 5, 15 min)
- ~ .~ (   ) ~. ~  Running Processes..: 107
+  : .~.'~'.~. :   Uptime.............: 69 days, 10h26m38s
+ ~ (   ) (   ) ~  Memory.............: 81976kB (Free) / 1784008kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.03, 0.01 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 105
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 89.147.70.132
    '~ .~~~. ~'    Weather............: 18°C, Clear
        '~'
 temp1:        +62.0°C  
 Core 0:       +36.0°C  
-Core 1:       +46.0°C  
+Core 1:       +47.0°C  
