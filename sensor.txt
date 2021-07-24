@@ -9,14 +9,14 @@ temp1:        +61.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 16:25:01 up 1 day, 17:47,  0 users,  load average: 0,14, 0,14, 0,06
+ 16:30:02 up 1 day, 17:52,  0 users,  load average: 0,35, 0,24, 0,12
 
-   .~~.   .~~.    szombat, 24 július 2021, 16:25:01
+   .~~.   .~~.    szombat, 24 július 2021, 16:30:02
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 1 days, 17h47m24s
+  : .~.'~'.~. :   Uptime.............: 1 days, 17h52m25s
  ~ (   ) (   ) ~  Memory.............: 72488kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.14, 0.14, 0.06 (1, 5, 15 min)
+( : '~'.~.'~' : ) Load Averages......: 0.35, 0.24, 0.12 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 109
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 62.165.200.36
    '~ .~~~. ~'    Weather............: 17°C, Cloudy
