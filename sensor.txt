@@ -1,26 +1,26 @@
 coretemp-isa-0000
 Adapter: ISA adapter
-Core 0:       +29.0°C  (crit = +125.0°C)
-Core 1:       +42.0°C  (crit = +125.0°C)
+Core 0:       +31.0°C  (crit = +125.0°C)
+Core 1:       +41.0°C  (crit = +125.0°C)
 
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +59.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +60.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 00:20:01 up 10:17,  0 users,  load average: 0,10, 0,04, 0,01
+ 00:25:01 up 10:22,  0 users,  load average: 0,00, 0,01, 0,00
 
-   .~~.   .~~.    péntek,  1 október 2021, 00:20:01
+   .~~.   .~~.    péntek,  1 október 2021, 00:25:01
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 10h17m57s
- ~ (   ) (   ) ~  Memory.............: 94596kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.10, 0.04, 0.01 (1, 5, 15 min)
- ~ .~ (   ) ~. ~  Running Processes..: 108
+  : .~.'~'.~. :   Uptime.............: 0 days, 10h22m57s
+ ~ (   ) (   ) ~  Memory.............: 94368kB (Free) / 1773496kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.01, 0.00 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 109
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 92.249.211.89
    '~ .~~~. ~'    Weather............: 15°C, Cloudy
        '~'
-Core 0:       +29.0°C  
-Core 1:       +42.0°C  
-temp1:        +60.0°C  
+Core 0:       +31.0°C  
+Core 1:       +41.0°C  
+temp1:        +59.0°C  
