@@ -5,22 +5,22 @@ Core 1:       +41.0°C  (crit = +125.0°C)
 
 nouveau-pci-0100
 Adapter: PCI adapter
-temp1:        +60.0°C  (high = +95.0°C, hyst =  +3.0°C)
+temp1:        +59.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 16:25:01 up  2:22,  0 users,  load average: 0,01, 0,07, 0,17
+ 16:30:01 up  2:27,  0 users,  load average: 0,00, 0,03, 0,13
 
-   .~~.   .~~.    csütörtök, 30 szeptember 2021, 16:25:01
+   .~~.   .~~.    csütörtök, 30 szeptember 2021, 16:30:01
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 02h22m58s
- ~ (   ) (   ) ~  Memory.............: 89808kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.01, 0.07, 0.17 (1, 5, 15 min)
- ~ .~ (   ) ~. ~  Running Processes..: 110
+  : .~.'~'.~. :   Uptime.............: 0 days, 02h27m58s
+ ~ (   ) (   ) ~  Memory.............: 88792kB (Free) / 1773496kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.03, 0.13 (1, 5, 15 min)
+ ~ .~ (   ) ~. ~  Running Processes..: 109
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 92.249.211.89
    '~ .~~~. ~'    Weather............: 15°C, Cloudy
        '~'
 Core 0:       +32.0°C  
-Core 1:       +42.0°C  
+Core 1:       +41.0°C  
 temp1:        +60.0°C  
