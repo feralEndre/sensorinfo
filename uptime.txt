@@ -1,1 +1,1 @@
- 02:30:01 up 12:27,  0 users,  load average: 0,00, 0,02, 0,00
+ 02:35:02 up 12:32,  0 users,  load average: 0,46, 0,25, 0,09
