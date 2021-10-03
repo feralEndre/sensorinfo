@@ -9,14 +9,14 @@ temp1:        +60.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 20:20:01 up 11:19,  0 users,  load average: 0,17, 0,15, 0,10
+ 20:25:01 up 11:24,  0 users,  load average: 0,06, 0,08, 0,08
 
-   .~~.   .~~.    vasárnap,  3 október 2021, 20:20:01
+   .~~.   .~~.    vasárnap,  3 október 2021, 20:25:01
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 0 days, 11h19m44s
- ~ (   ) (   ) ~  Memory.............: 834500kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.17, 0.15, 0.10 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 0 days, 11h24m44s
+ ~ (   ) (   ) ~  Memory.............: 834024kB (Free) / 1773496kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.06, 0.08, 0.08 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 111
   (  : '~' :  )   IP Addresses.......: 192.168.1.6 and 94.21.234.87
    '~ .~~~. ~'    Weather............: 13°C, Showers
