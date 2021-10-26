@@ -1,1 +1,1 @@
- 07:00:02 up 10 days, 21:59,  0 users,  load average: 0,08, 0,06, 0,01
+ 07:05:02 up 10 days, 22:04,  0 users,  load average: 0,36, 0,25, 0,10
