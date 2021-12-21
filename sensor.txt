@@ -1,6 +1,6 @@
 coretemp-isa-0000
 Adapter: ISA adapter
-Core 0:       +33.0°C  (crit = +125.0°C)
+Core 0:       +34.0°C  (crit = +125.0°C)
 Core 1:       +42.0°C  (crit = +125.0°C)
 
 nouveau-pci-0100
@@ -9,18 +9,18 @@ temp1:        +61.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 22:30:01 up 8 days,  2:57,  0 users,  load average: 0,01, 0,02, 0,05
+ 22:35:01 up 8 days,  3:02,  0 users,  load average: 0,00, 0,02, 0,03
 
-   .~~.   .~~.    kedd, 21 december 2021, 22:30:01
+   .~~.   .~~.    kedd, 21 december 2021, 22:35:01
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 8 days, 02h57m23s
- ~ (   ) (   ) ~  Memory.............: 90828kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.01, 0.02, 0.05 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 8 days, 03h02m22s
+ ~ (   ) (   ) ~  Memory.............: 90332kB (Free) / 1773496kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.00, 0.02, 0.03 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 110
   (  : '~' :  )   IP Addresses.......: 192.168.100.6 and 94.21.10.235
-   '~ .~~~. ~'    Weather............: 0°C, Mostly Cloudy
+   '~ .~~~. ~'    Weather............: 0°C, Cloudy
        '~'
-Core 0:       +33.0°C  
+Core 0:       +34.0°C  
 Core 1:       +42.0°C  
 temp1:        +61.0°C  
