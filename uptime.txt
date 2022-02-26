@@ -1,1 +1,1 @@
- 02:30:01 up 45 days, 18:29,  0 users,  load average: 0,23, 0,15, 0,06
+ 02:35:02 up 45 days, 18:34,  0 users,  load average: 0,31, 0,21, 0,10
