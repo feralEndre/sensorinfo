@@ -1,1 +1,1 @@
- 16:45:02 up 70 days,  8:44,  0 users,  load average: 0,06, 0,04, 0,01
+ 16:50:02 up 70 days,  8:49,  0 users,  load average: 0,32, 0,13, 0,03
