@@ -9,14 +9,14 @@ temp1:        +63.0°C  (high = +95.0°C, hyst =  +3.0°C)
                        (crit = +95.0°C, hyst =  +2.0°C)
                        (emerg = +135.0°C, hyst =  +5.0°C)
 
- 22:05:01 up 104 days, 13:04,  0 users,  load average: 0,38, 0,31, 0,36
+ 22:10:01 up 104 days, 13:09,  0 users,  load average: 0,05, 0,17, 0,27
 
-   .~~.   .~~.    hétfő, 25 április 2022, 22:05:01
+   .~~.   .~~.    hétfő, 25 április 2022, 22:10:01
   '. \ ' ' / .'   Linux 5.10.0-0.bpo.4-amd64 x86_64 GNU/Linux
    .~ .~~~..~.
-  : .~.'~'.~. :   Uptime.............: 104 days, 13h04m44s
- ~ (   ) (   ) ~  Memory.............: 78020kB (Free) / 1773496kB (Total)
-( : '~'.~.'~' : ) Load Averages......: 0.38, 0.31, 0.36 (1, 5, 15 min)
+  : .~.'~'.~. :   Uptime.............: 104 days, 13h09m44s
+ ~ (   ) (   ) ~  Memory.............: 70420kB (Free) / 1773496kB (Total)
+( : '~'.~.'~' : ) Load Averages......: 0.05, 0.17, 0.27 (1, 5, 15 min)
  ~ .~ (   ) ~. ~  Running Processes..: 110
   (  : '~' :  )   IP Addresses.......: 192.168.100.6 and 178.164.132.164
    '~ .~~~. ~'    Weather............: 10°C, Clear
