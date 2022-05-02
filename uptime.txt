@@ -1,1 +1,1 @@
- 18:00:02 up 1 day, 19:29,  0 users,  load average: 1,51, 0,82, 0,34
+ 18:05:07 up 1 day, 19:34,  0 users,  load average: 1,77, 1,26, 0,68
